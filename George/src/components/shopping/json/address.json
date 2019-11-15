@@ -1,0 +1,322 @@
+{
+  "course": [
+    {
+      "id": 1,
+      "uname": "张三",
+      "uage": "男士",
+      "label": "家",
+      "province": "湖南省",
+      "city": "永州市",
+      "country": "道县",
+      "address": "XX镇",
+      "phone": 18607696671,
+      "is_default": "快递"
+    },
+    {
+      "country": "道县",
+      "is_default": "同城",
+      "label": "公司",
+      "phone": 18607696672,
+      "province": "湖南省",
+      "uage": "女士",
+      "uname": "李四",
+      "city": "永州市",
+      "address": "嘻嘻镇",
+      "id": 2
+    },
+    {
+      "country": "西城区",
+      "is_default": "同城",
+      "label": "学校",
+      "phone": "13566666666",
+      "province": "北京市",
+      "uage": "男士",
+      "uname": "罗力青",
+      "city": "市辖区",
+      "address": "测试",
+      "id": 3
+    }
+  ],
+  "groupBuy": [
+    {
+      "pid": 1,
+      "img": "./img/pingtuan.png",
+      "title": "进口水果 菲律宾进口凤梨两个装 单果约重1000-1500g 养颜护肤",
+      "price": 50,
+      "price1": 100,
+      "sales": 0,
+      "salesSum": 3
+    },
+    {
+      "pid": 2,
+      "img": "./img/pingtuan1.png",
+      "title": "进口水果 菲律宾进口凤梨两个装 单果约重1000-1500g 养颜护肤",
+      "price": 50,
+      "price1": 100,
+      "sales": 0,
+      "salesSum": 3
+    },
+    {
+      "pid": 3,
+      "img": "./img/pingtuan.png",
+      "title": "进口水果 菲律宾进口凤梨两个装 单果约重1000-1500g 养颜护肤",
+      "price": 50,
+      "price1": 100,
+      "sales": 0,
+      "salesSum": 3
+    },
+    {
+      "pid": 4,
+      "img": "./img/pingtuan1.png",
+      "title": "进口水果 菲律宾进口凤梨两个装 单果约重1000-1500g 养颜护肤",
+      "price": 50,
+      "price1": 100,
+      "sales": 0,
+      "salesSum": 3
+    },
+    {
+      "pid": 5,
+      "img": "./img/pingtuan.png",
+      "title": "进口水果 菲律宾进口凤梨两个装 单果约重1000-1500g 养颜护肤",
+      "price": 50,
+      "price1": 100,
+      "sales": 0,
+      "salesSum": 3
+    },
+    {
+      "pid": 6,
+      "img": "./img/pingtuan1.png",
+      "title": "进口水果 菲律宾进口凤梨两个装 单果约重1000-1500g 养颜护肤",
+      "price": 50,
+      "price1": 100,
+      "sales": 0,
+      "salesSum": 3
+    },
+    {
+      "pid": 7,
+      "img": "./img/pingtuan.png",
+      "title": "进口水果 菲律宾进口凤梨两个装 单果约重1000-1500g 养颜护肤",
+      "price": 50,
+      "price1": 100,
+      "sales": 0,
+      "salesSum": 3
+    },
+    {
+      "pid": 8,
+      "img": "./img/pingtuan1.png",
+      "title": "进口水果 菲律宾进口凤梨两个装 单果约重1000-1500g 养颜护肤",
+      "price": 50,
+      "price1": 100,
+      "sales": 0,
+      "salesSum": 3
+    },
+    {
+      "pid": 9,
+      "img": "./img/pingtuan.png",
+      "title": "进口水果 菲律宾进口凤梨两个装 单果约重1000-1500g 养颜护肤",
+      "price": 50,
+      "price1": 100,
+      "sales": 0,
+      "salesSum": 3
+    },
+    {
+      "pid": 10,
+      "img": "./img/pingtuan1.png",
+      "title": "进口水果 菲律宾进口凤梨两个装 单果约重1000-1500g 养颜护肤",
+      "price": 50,
+      "price1": 100,
+      "sales": 0,
+      "salesSum": 3
+    },
+    {
+      "pid": 11,
+      "img": "./img/pingtuan.png",
+      "title": "进口水果 菲律宾进口凤梨两个装 单果约重1000-1500g 养颜护肤",
+      "price": 50,
+      "price1": 100,
+      "sales": 0,
+      "salesSum": 3
+    },
+    {
+      "pid": 12,
+      "img": "./img/pingtuan1.png",
+      "title": "进口水果 菲律宾进口凤梨两个装 单果约重1000-1500g 养颜护肤",
+      "price": 50,
+      "price1": 100,
+      "sales": 0,
+      "salesSum": 3
+    },
+    {
+      "pid": 13,
+      "img": "./img/pingtuan.png",
+      "title": "进口水果 菲律宾进口凤梨两个装 单果约重1000-1500g 养颜护肤",
+      "price": 50,
+      "price1": 100,
+      "sales": 0,
+      "salesSum": 3
+    },
+    {
+      "pid": 14,
+      "img": "./img/pingtuan1.png",
+      "title": "进口水果 菲律宾进口凤梨两个装 单果约重1000-1500g 养颜护肤",
+      "price": 50,
+      "price1": 100,
+      "sales": 0,
+      "salesSum": 3
+    }
+  ],
+  "classification": [
+    {
+      "pid": 21,
+      "img": "./img/fenlei.jpg",
+      "title": "安徽砀山黄桃带箱10斤桃子新鲜当季水果蜜桃脆毛桃包邮",
+      "price": 50,
+      "sales": 0,
+      "transport": "包邮"
+    },
+    {
+      "pid": 22,
+      "img": "./img/fenlei1.jpg",
+      "title": "嘎啦苹果水果新鲜应季带箱10斤当季整箱红富士丑青苹果",
+      "price": 50,
+      "sales": 0,
+      "transport": "包邮"
+    },
+    {
+      "pid": 23,
+      "img": "./img/fenlei1.jpg",
+      "title": "嘎啦苹果水果新鲜应季带箱10斤当季整箱红富士丑青苹果",
+      "price": 50,
+      "sales": 0,
+      "transport": "包邮"
+    },
+    {
+      "pid": 24,
+      "img": "./img/fenlei.jpg",
+      "title": "安徽砀山黄桃带箱10斤桃子新鲜当季水果蜜桃脆毛桃包邮",
+      "price": 50,
+      "sales": 0,
+      "transport": "包邮"
+    },
+    {
+      "pid": 25,
+      "img": "./img/fenlei.jpg",
+      "title": "安徽砀山黄桃带箱10斤桃子新鲜当季水果蜜桃脆毛桃包邮",
+      "price": 50,
+      "sales": 0,
+      "transport": "包邮"
+    },
+    {
+      "pid": 25,
+      "img": "./img/fenlei1.jpg",
+      "title": "嘎啦苹果水果新鲜应季带箱10斤当季整箱红富士丑青苹果",
+      "price": 50,
+      "sales": 0,
+      "transport": "包邮"
+    },
+    {
+      "pid": 25,
+      "img": "./img/fenlei1.jpg",
+      "title": "嘎啦苹果水果新鲜应季带箱10斤当季整箱红富士丑青苹果",
+      "price": 50,
+      "sales": 0,
+      "transport": "包邮"
+    },
+    {
+      "pid": 26,
+      "img": "./img/fenlei.jpg",
+      "title": "安徽砀山黄桃带箱10斤桃子新鲜当季水果蜜桃脆毛桃包邮",
+      "price": 50,
+      "sales": 0,
+      "transport": "包邮"
+    }
+  ],
+  "home": [
+    {
+      "pid": 31,
+      "titleImg": "./img/jingxuan.png",
+      "img": "./img/shiliu.jpg",
+      "imgi": "./img/shiliu.jpg",
+      "title": "石榴 6个 单果300-500g 新鲜甜石榴水果",
+      "price": 49,
+      "sales": 4,
+      "transport": "包邮"
+    },
+    {
+      "pid": 32,
+      "titleImg": "./img/miaosha.png",
+      "img": "./img/putao.jpg",
+      "imgi": "./img/putao.jpg",
+      "title": "顺丰空运 陕西户太八号葡萄新鲜水果 2.5kg 非云南无籽夏黑葡萄提子",
+      "price": 119,
+      "sales": 4,
+      "transport": "包邮"
+    }
+  ],
+  "homeList": [
+    {
+      "pid": 41,
+      "img": "./img/shiliu.jpg",
+      "title": "石榴 6个 单果300-500g 新鲜甜石榴水果",
+      "price": 49,
+      "sales": 4,
+      "transport": "包邮"
+    },
+    {
+      "pid": 42,
+      "img": "./img/putao.jpg",
+      "title": "顺丰空运 陕西户太八号葡萄新鲜水果 2.5kg 非云南无籽夏黑葡萄提子",
+      "price": 119,
+      "sales": 4,
+      "transport": "包邮"
+    },
+    {
+      "pid": 43,
+      "img": "./img/shiliu.jpg",
+      "title": "石榴 6个 单果300-500g 新鲜甜石榴水果",
+      "price": 49,
+      "sales": 4,
+      "transport": "包邮"
+    },
+    {
+      "pid": 44,
+      "img": "./img/putao.jpg",
+      "title": "顺丰空运 陕西户太八号葡萄新鲜水果 2.5kg 非云南无籽夏黑葡萄提子",
+      "price": 119,
+      "sales": 4,
+      "transport": "包邮"
+    },
+    {
+      "pid": 45,
+      "img": "./img/shiliu.jpg",
+      "title": "石榴 6个 单果300-500g 新鲜甜石榴水果",
+      "price": 49,
+      "sales": 4,
+      "transport": "包邮"
+    },
+    {
+      "pid": 45,
+      "img": "./img/putao.jpg",
+      "title": "顺丰空运 陕西户太八号葡萄新鲜水果 2.5kg 非云南无籽夏黑葡萄提子",
+      "price": 119,
+      "sales": 4,
+      "transport": "包邮"
+    },
+    {
+      "pid": 47,
+      "img": "./img/shiliu.jpg",
+      "title": "石榴 6个 单果300-500g 新鲜甜石榴水果",
+      "price": 49,
+      "sales": 4,
+      "transport": "包邮"
+    },
+    {
+      "pid": 48,
+      "img": "./img/putao.jpg",
+      "title": "顺丰空运 陕西户太八号葡萄新鲜水果 2.5kg 非云南无籽夏黑葡萄提子",
+      "price": 119,
+      "sales": 4,
+      "transport": "包邮"
+    }
+  ]
+}
